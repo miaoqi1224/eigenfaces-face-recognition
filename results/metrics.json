@@ -1,0 +1,11 @@
+{
+  "segmented_faces": 49,
+  "total_images": 299,
+  "training_images": 209,
+  "test_images": 90,
+  "classes": 6,
+  "test_accuracy": 0.833333,
+  "test_size": 0.3,
+  "random_state": 42,
+  "eigenfaces": 80
+}
